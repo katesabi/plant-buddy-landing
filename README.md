@@ -38,7 +38,7 @@ here's a preview of the full-length layout:
 ## notes
 
 - the page includes a header, hero, quote, stats, place cards, cta section, and footer.
-- all icons are inline svg — no icon library required.
+- all icons are inline svg  so no icon library required.
 - the subscribe form is front-end only.
 
 ## personal note
