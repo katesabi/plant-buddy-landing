@@ -4,7 +4,7 @@ this is a responsive landing page for a plant care community — built with html
 
 ## original design source
 
-🎨 [plant buddy landing page by nickelfox Design](https://www.figma.com/community/file/1015147614988696404/plant-buddy-landing-page)
+🎨 [plant buddy landing page by nickelfox design](https://www.figma.com/community/file/1015147614988696404/plant-buddy-landing-page)
 
 ## key features
 
