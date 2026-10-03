@@ -31,9 +31,8 @@ this is a responsive landing page for a plant care community — built with html
 - fonts load from google fonts (fraunces + inter) via cdn.
 
 ## long screenshot
-<img width="1763" height="3505" alt="image" src="https://github.com/user-attachments/assets/0937a882-9c5b-4b84-a1b7-dfad92197d2b" />
-
 here's a preview of the full-length layout: 
+<img width="1763" height="3505" alt="image" src="https://github.com/user-attachments/assets/0937a882-9c5b-4b84-a1b7-dfad92197d2b" />
 
 ## notes
 
