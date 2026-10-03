@@ -39,8 +39,7 @@ here's a preview of the full-length layout:
 
 - the page includes a header, hero, quote, stats, place cards, cta section, and footer.
 - all icons are inline svg — no icon library required.
-- the subscribe form is front-end only; wire it to your backend or email service to collect addresses.
-- placeholder images in `images/` can be swapped for real photography.
+- the subscribe form is front-end only.
 
 ## personal note
 
